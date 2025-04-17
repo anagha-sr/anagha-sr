@@ -1,6 +1,6 @@
-### Hello! I am Anagha S👋
+### Hello! I am Anagha Surendranath👋
 <!--
-**ASurenath/Asurenath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anagha-sr/anagha-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - I 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ASurenath&theme=dark&background=000000)](https://git.io/streak-stats)-->
 ### :fire: Most used languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASurenath&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anagha-sr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
